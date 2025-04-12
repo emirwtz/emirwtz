@@ -11,8 +11,11 @@ I am a developer who is constantly improving myself in the field of software dev
 
 ## Contact
 
-- **GitHub**: [github.com/emirwtz](https://github.com/emirwtz)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/emirwtz)
 - **Instagram**: [@emir.wtz](https://instagram.com/emir.wtz)
 - **Email**: [emir.wtz.business@gmail.com](mailto:emir.wtz.business@gmail.com)
-  
+- **Website**: [emirwtz.glitch.me](https://emirwtz.glitch.me)
+
+<br>
+
 ![gif](https://github.com/user-attachments/assets/73a75e21-5beb-4ea7-856c-da73b753ed56)
